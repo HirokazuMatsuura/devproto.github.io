@@ -1,6 +1,6 @@
 window.onload = function caution() {
     alert('aaa');
-    function alert() {
+    function aa() {
         alert('bbb');
     }
 }

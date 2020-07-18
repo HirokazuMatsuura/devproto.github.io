@@ -1,3 +1,3 @@
-function caution() {
+window.onload = function caution() {
     alert('aaa');
 }

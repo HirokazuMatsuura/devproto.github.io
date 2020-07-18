@@ -1,6 +1,8 @@
 window.onload = function caution() {
     alert('aaa');
-    function aa() {
-        alert('bbb');
-    }
+    this.aa();
+}
+
+function aa() {
+    alert('bbb');
 }
